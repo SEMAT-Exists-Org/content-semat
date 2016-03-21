@@ -3,12 +3,14 @@ Requirements
 ##Total States
 6
 ##States
-1.Conceived
-2.Bounded
-3.Coherent
-4.Acceptable
-5.Addressed
-6.Fulfilled
+
+1. Conceived
+2. Bounded
+3. Coherent
+4. Acceptable
+5. Addressed
+6. Fulfilled
+
 ##Description
 What the software system must do to address the opportunity and satisfy
 the stakeholders.
