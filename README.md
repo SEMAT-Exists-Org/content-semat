@@ -1,5 +1,5 @@
-# content-semat
+# SEMAT Essence Content
 
-## License
-All content submitted should be licensed with the [Creative Commons Attribution Sharealike license ] [https://creativecommons.org/licenses/by-sa/4.0/]
+This branch contains the standard SEMAT Essence content, with Alpha State cards, one for each of the Alphas and then one for each Alpha State in that Alpha. This includes .jpg and .md format versions
+
 
